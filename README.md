@@ -48,6 +48,11 @@ Desenvolvido para praticar lógica e programação básica de batalhas.
 > Jogo de **Damas para 2 jogadores**, com GUI feita em **Java (Swing)** no **IntelliJ IDEA**.  
 Projeto pessoal com foco em lógica de jogos e interface gráfica.
 
+#### 🔸 [ProjetoAOC](https://github.com/vinimqsz/Projeto_AOC)
+> Projeto de gerenciamento de um condomínio, com CRUD e salvamento de arquivos.
+1º Projeto sendo feito em Assembly MIPS para a Disciplina de Arquitetura e Organização de Computadores.
+
+
 ---
 
 ### 🌐 Contato
